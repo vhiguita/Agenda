@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Manejador de Contactos</string>
+	<string name="no_notes">No hay personas todavía</string>
+	<string name="mensaje">Excepcion</string>
+	<string name="menu_insert">Agregar</string>
+	<string name="menu_edit">Editar</string>
+	<string name="menu_delete">Borrar</string>
+	<string name="title">Title</string>
+	<string name="body">Body</string>
+	<string name="confirm">Guardar</string>
+	<string name="edit_note">Editar Persona</string>
+	<string name="name">Nombre:</string>
+    <string name="sex">Genero:</string>
+	<string name="masc">Masculino</string>
+	<string name="fem">Femenino</string>
+	<string name="pas">Aficiones:</string>
+	<string name="cine">Cine</string>
+	<string name="tel">Television</string>
+	<string name="dep">Deporte</string>
+	<string name="amis">Amistad</string>
+
+</resources>
